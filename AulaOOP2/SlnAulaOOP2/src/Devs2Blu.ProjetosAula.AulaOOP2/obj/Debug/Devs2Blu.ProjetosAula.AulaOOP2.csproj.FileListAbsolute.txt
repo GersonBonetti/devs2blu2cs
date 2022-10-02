@@ -1,0 +1,14 @@
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe.config
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.pdb
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.AssemblyReference.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.SuggestedBindingRedirects.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.Form1.resources
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.Properties.Resources.resources
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.GenerateResource.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.pdb
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.dll
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.pdb
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.CopyComplete

@@ -1,0 +1,109 @@
+﻿using System;
+using Devs2Blu.ProjetosAula.OOP2Classes;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Devs2Blu.ProjetosAula.AulaOOP2
+{
+    public partial class Form1 : Form
+    {
+        public Contato Contato { get; set; }
+
+        public Form1()
+        {
+            InitializeComponent();
+            Contato = new Contato();
+        }
+
+        #region Eventos
+        private void btn_Enviar_Click(object sender, EventArgs e)
+        {
+            if (!ValidaForm())
+            {
+                MessageBox.Show("Por favor, preencha todos os campos");
+                return;
+            }
+
+
+
+            string textoMsg = $"{txtNome.Text}, texto enviado com sucesso!";
+
+            MessageBox.Show(textoMsg);        }
+
+
+        private void btn_Limpar_Click(object sender, EventArgs e)
+        {
+            LimparForm();
+        }
+
+        private void txtCEP_TextChanged(object sender, EventArgs e)
+        {
+            if (txtCEP.Text.Length == 8)
+            {
+                txtRua.Text = "7 de setembro";
+                txtBairro.Text = "Centro";
+                txtCidade.Text = "Blumenau";
+                txtEstado.Text = "SC";
+            } else
+            {
+                txtRua.Clear();
+                txtBairro.Clear();
+                txtCidade.Clear();
+                txtEstado.Clear();
+            }
+        }
+
+        #endregion
+
+
+        #region Metodos
+        public void LimparForm()
+        {
+            txtNome.Clear();
+            txtCel.Clear();
+            txtEmail.Clear();
+            txtCEP.Clear();
+            txtRua.Clear();
+            txtNumero.Clear();
+            txtBairro.Clear();
+            txtCidade.Clear();
+            txtEstado.Clear();
+        }
+
+        public bool ValidaForm()
+        {
+            if (txtNome.Text.Equals("")) return false;
+            if (txtCel.Text.Equals("")) return false;
+            if (txtEmail.Text.Equals("")) return false;
+            if (txtCEP.Text.Equals("")) return false;
+            if (txtRua.Text.Equals("")) return false;
+            if (txtNumero.Text.Equals("")) return false;
+            if (txtBairro.Text.Equals("")) return false;
+            if (txtCidade.Text.Equals("")) return false;
+            if (txtEstado.Text.Equals("")) return false;
+            return true;
+        }
+
+        public void BindClass()
+        {
+            Contato.Nome = txtNome.Text;
+            Contato.Cel = txtCel.Text;
+            Contato.Email = txtEmail.Text;
+            Contato.CEP = txtCEP.Text;
+            Contato.Rua = txtRua.Text;
+            Contato.Numero = int.Parse(txtNumero.Text);
+            Contato.Bairro = txtBairro.Text;
+            Contato.Cidade = txtCidade.Text;
+            Contato.Estado = txtEstado.Text;
+        }
+
+        #endregion
+
+    }
+}
