@@ -1,0 +1,6 @@
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.dll
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.pdb
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\obj\Debug\Devs2Blu.ProjetosAula.OOP2Classes.csproj.AssemblyReference.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\obj\Debug\Devs2Blu.ProjetosAula.OOP2Classes.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\obj\Debug\Devs2Blu.ProjetosAula.OOP2Classes.dll
+C:\Devs2Blu\AulaOOP2\SlnAulaOOP2\src\Devs2Blu.ProjetosAula.OOP2Classes\obj\Debug\Devs2Blu.ProjetosAula.OOP2Classes.pdb
