@@ -1,0 +1,6 @@
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\bin\Debug\Models.dll
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\bin\Debug\Models.pdb
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\obj\Debug\AgendaContato.Models.csproj.AssemblyReference.cache
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\obj\Debug\AgendaContato.Models.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\obj\Debug\Models.dll
+C:\Devs2Blu\BancoDados\AgendaContatos\SlnAgendaContatos\Models\obj\Debug\Models.pdb
