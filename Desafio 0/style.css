@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&family=Raleway:wght@100;200&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+/* HEADER INÍCIO */
+
+header {
+  border-bottom: 2px solid #111;
+  width: 100vw;
+  height: 100px;
+  padding: 0.5em;
+  background-color: azure;
+}
+
+figure {
+  height: 80px;
+  line-height: 100px;
+  display: inline-flex;
+}
+
+header figure img {
+  width: 64px;
+  height: 64px;
+  line-height: 100px;
+  padding-top: 10px;
+}
+
+header figure img {
+  width: 64px;
+  height: 64px;
+  line-height: 100px;
+  padding-top: 10px;
+}
+
+header figure figcaption {
+  margin-left: 1em;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+/* MAIN */
+
+.wrapper {
+  display: block;
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+main {
+  display: block;
+  width: auto;
+  border: 1px solid #111;
+  padding: 0.5em;
+  background-color: rgb(196, 218, 210);
+}
+
+conteudo {
+  text-align: center;
+}
+
+.cabecalho-main {
+  display: inline-flex;
+  border-bottom: 1px solid black;
+  height: 100px;
+  width: 100%;
+  margin-bottom: 0.5em;
+}
+
+.cabecalho-main img {
+  width: auto;
+  height: auto;
+  padding-left: 0.5em;
+  padding-top: 5px;
+}
+
+.titulo-texto {
+  padding-top: 2em;
+  padding-left: 1em;
+}
+
+div.conteudo {
+  margin-top: 1.5em;
+  text-align: justify;
+}
+
+div.conteudo p {
+  text-indent: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+}
+
+div.conteudo h2:nth-child(3) {
+  padding-bottom: 12px;
+}
+
+footer figure {
+    width: 100vw;
+    border-top: 2px solid black;
+    padding: 1em;
+}
