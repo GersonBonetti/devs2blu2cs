@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe.config
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.pdb
@@ -8,3 +9,15 @@ C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Blu.ProjetosAula.AulaOOPIntro.csproj.CoreCompileInputs.cache
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe
 C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.pdb
+=======
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe.config
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\bin\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.pdb
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Blu.ProjetosAula.AulaOOPIntro.csproj.AssemblyReference.cache
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Blu.ProjetosAula.AulaOOPIntro.csproj.SuggestedBindingRedirects.cache
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.Properties.Resources.resources
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Blu.ProjetosAula.AulaOOPIntro.csproj.GenerateResource.cache
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Blu.ProjetosAula.AulaOOPIntro.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.exe
+C:\Devs2Blu\AulaOOP\SlnOOPIntroducao\src\Devs2Nlu.ProjetosAula.AulaOOPIntro\obj\Debug\Devs2Nlu.ProjetosAula.AulaOOPIntro.pdb
+>>>>>>> 19bb5480b5f0234aceee6029f0baf077b0a4b731
