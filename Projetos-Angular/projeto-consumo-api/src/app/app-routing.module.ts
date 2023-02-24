@@ -1,3 +1,4 @@
+import { DetailsComponent } from './components/details/details.component';
 import { ApiReturn } from './models/api-return';
 import { HomeComponent } from './components/home/home.component';
 import { NgModule } from '@angular/core';
@@ -8,7 +9,7 @@ const routes: Routes = [
   {path: 'home', component: HomeComponent},
   {path: '', redirectTo: '/home', pathMatch:'full'},
   {path: 'list', component: ListComponent},
-  {path: 'detail/:id', component: ApiReturn},
+  {path: 'detail/:name', component: DetailsComponent},
 ];
 
 @NgModule({
