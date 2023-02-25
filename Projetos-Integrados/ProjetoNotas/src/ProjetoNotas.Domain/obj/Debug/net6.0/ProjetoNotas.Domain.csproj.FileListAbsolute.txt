@@ -1,0 +1,12 @@
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\bin\Debug\net6.0\ProjetoNotas.Domain.deps.json
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\bin\Debug\net6.0\ProjetoNotas.Domain.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\bin\Debug\net6.0\ProjetoNotas.Domain.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.csproj.AssemblyReference.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.AssemblyInfoInputs.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.AssemblyInfo.cs
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\refint\ProjetoNotas.Domain.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ProjetoNotas.Domain.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Domain\obj\Debug\net6.0\ref\ProjetoNotas.Domain.dll

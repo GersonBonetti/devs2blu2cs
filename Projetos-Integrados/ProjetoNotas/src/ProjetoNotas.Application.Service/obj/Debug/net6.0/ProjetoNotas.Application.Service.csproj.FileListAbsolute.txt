@@ -1,0 +1,17 @@
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Application.Service.deps.json
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Application.Service.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Application.Service.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Domain.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Infra.Data.Repository.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Domain.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\bin\Debug\net6.0\ProjetoNotas.Infra.Data.Repository.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.csproj.AssemblyReference.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.AssemblyInfoInputs.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.AssemblyInfo.cs
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.csproj.CopyComplete
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\refint\ProjetoNotas.Application.Service.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ProjetoNotas.Application.Service.pdb
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.Application.Service\obj\Debug\net6.0\ref\ProjetoNotas.Application.Service.dll
