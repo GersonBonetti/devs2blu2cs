@@ -34,9 +34,9 @@ export class Results {
   url?: string;
   created?: Date;
 
-constructor(obj: Partial<ApiReturn>){
-  Object.assign(this, obj);
-}
+  constructor(obj: Partial<ApiReturn>){
+    Object.assign(this, obj);
+  }
 }
 
 export class Origins {
