@@ -14,6 +14,15 @@ namespace ProjetoNotas.Infra.Data.Repository.Context
             : base(options)
         { }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Seed
+            modelBuilder.Entity<User>()
+                .HasData(
+                new { Id = 1, Name = "Gérson Bonetti", Login = "zeso", Password = "batata" }
+                );
+        }
+
         #region DbSets<Tables>
 
         public DbSet<User> Users { get; set; }

@@ -13,7 +13,7 @@ namespace ProjetoNotas.Domain.Entities
         public string Login { get; set; }
         public string Password { get; set; }
 
-        public virtual ICollection<NoteDTO>? Notes { get; set; }
+        public virtual User? Users { get; set; }
         //Pode ser usado para pegar todas as notas
     }
 }

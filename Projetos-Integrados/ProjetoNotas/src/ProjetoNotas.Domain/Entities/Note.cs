@@ -1,4 +1,5 @@
-﻿using ProjetoNotas.Domain.Enums;
+﻿using ProjetoNotas.Domain.DTO;
+using ProjetoNotas.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +17,6 @@ namespace ProjetoNotas.Domain.Entities
         public CategoryEnum Category { get; set; }
         public bool Fixed { get; set; }
         public DateTime TimeNote { get; set; }
-        public virtual UserDTO? User{ get; set; }
+        public virtual ICollection<Note>? Notes { get; set; }
     }
 }

@@ -7,10 +7,12 @@ C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\ProjetoNotas.App.API.pdb
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Azure.Core.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Humanizer.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
@@ -20,6 +22,7 @@ C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
@@ -35,9 +38,11 @@ C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.CodeDom.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -45,6 +50,8 @@ C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Text.Json.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -57,6 +64,7 @@ C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\ProjetoNotas.Application.Service.dll
 C:\Devs2Blu\Projetos-Integrados\ProjetoNotas\src\ProjetoNotas.App.API\bin\Debug\net6.0\ProjetoNotas.Domain.dll
