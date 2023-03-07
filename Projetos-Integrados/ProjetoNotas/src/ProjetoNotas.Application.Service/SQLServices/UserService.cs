@@ -1,11 +1,6 @@
 ﻿using ProjetoNotas.Domain.DTO;
 using ProjetoNotas.Domain.Interfaces.IRepositories;
 using ProjetoNotas.Domain.Interfaces.IService;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoNotas.Application.Service.SQLServices
 {
@@ -27,10 +22,10 @@ namespace ProjetoNotas.Application.Service.SQLServices
             return _userRepository.FindAll()
                                    .Select(u => new UserDTO
                                    {
-                                       Id = u.Id,
-                                       Name = u.Name,
-                                       Login = u.Login,
-                                       Password= u.Password
+                                       id = u.Id,
+                                       name = u.Name,
+                                       login = u.Login,
+                                       password= u.Password
                                    }).ToList();
         }
 

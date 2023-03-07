@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using ProjetoNotas.Application.Service.SQLServices;
 using ProjetoNotas.Domain.Interfaces.IRepositories;
 using ProjetoNotas.Domain.Interfaces.IService;
 using ProjetoNotas.Infra.Data.Repository.Context;
@@ -7,6 +9,15 @@ using ProjetoNotas.Infra.Data.Repository.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddCors(
+    options =>
+    {
+        options.AddPolicy(name: "NoteCors",
+            builder =>
+            {
+                builder.WithOrigins("*");
+            });
+    });
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,8 +34,8 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<INoteRepository, NoteRepository>();
 
 // # Services
-//builder.Services.AddScoped<IUserService, UserService>();
-//builder.Services.AddScoped<INoteService, NoteService>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<INoteService, NoteService>();
 
 var app = builder.Build();
 
@@ -34,6 +45,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("NoteCors");
 
 app.UseHttpsRedirection();
 
